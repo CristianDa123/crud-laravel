@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+    <meta name="Description" content="CRUD con Laravel ">
+    <meta name="Semestre" content="4 Semestre">
+    <meta name="Profesor" content="Mario Porras Porras">
+    <meta name="autor" content="Cristian David Jimenez ">
+    <meta name="Fecha" content="6/05/18:33">
+
+</head>
+
 @extends('layouts.base')
 
 @section('content')
